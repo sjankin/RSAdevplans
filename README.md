@@ -4,7 +4,7 @@ Analysis of policy priorities in national development plans as input for the Wor
 
 ### RNotebook
 
-* [Notebook](notebook.nb.html).
+* [Notebook](notebook.nb.html)
 * [Input data](files/data.zip)
 
 ### Final report from the World Bank
